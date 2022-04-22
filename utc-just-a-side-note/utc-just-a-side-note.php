@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: UTC Department Info
+ * Plugin Name: UTC Just a Side Note
  * Plugin URI: https://github.com/UTCWeb/utc-wp-plugins/utc-just-a-side-note/
- * Description: A custom UTC plugin that extends Genesis Custom Blocks to add a custom department info block
+ * Description: A custom UTC plugin that extends Genesis Custom Blocks to add a custom block for side notes within the body copy.
  * Version: 1.0.0
  * Author: Bridget Hornsby
  * Author URI: https://github.com/UTCWeb/utc-wp-plugins/utc-just-a-side-note/

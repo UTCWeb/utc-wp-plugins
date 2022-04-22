@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: UTC Department Info
- * Plugin URI: https://hornsbybrandesign.com/plugins/
+ * Plugin URI: https://github.com/UTCWeb/utc-wp-plugins/
  * Description: A custom UTC plugin that extends Genesis Custom Blocks to add a custom department info block
  * Version: 1.0.0
  * Author: Bridget Hornsby
- * Author URI: https://hornsbybrandesign.com/plugins/
+ * Author URI: https://github.com/UTCWeb/utc-wp-plugins/
  * Text Domain: gcb
  * Requires at least: 5.6
  * Requires PHP: 7.0
