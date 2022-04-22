@@ -1,12 +1,13 @@
 # utc-wp-plugins
 This is a respository for custome UTC WordPress plugins required for onboarding to the UTC Tailwinds Genesis Theme.
 
-Currently, this houses the following plugins.
+Currently, this hosts the following plugins.
 
-UTC Department Info
-UTC Just a Side Note
+- UTC Department Info
+- UTC Just a Side Note
 
-Requires at least: 5.6
-Requires PHP: 7.0
-Dependencies: Genesis Custom Blocks
+
+- Requires at least: 5.6
+- Requires PHP: 7.0
+- Dependencies: Genesis Custom Blocks
  
