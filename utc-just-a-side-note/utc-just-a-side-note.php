@@ -2,7 +2,7 @@
 /**
  * Plugin Name: UTC Just a Side Note
  * Plugin URI: https://github.com/UTCWeb/utc-wp-plugins/
- * Description: A custom UTC plugin that extends Genesis Custom Blocks to add a custom block for side notes within the body copy.
+ * Description: A custom UTC plugin that extends Genesis Custom Blocks to add a custom block for notes block within the body copy.
  * Version: 1.0.0
  * Author: Bridget Hornsby
  * Author URI: https://github.com/UTCWeb/utc-wp-plugins/
